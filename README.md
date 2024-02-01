@@ -1,8 +1,13 @@
-# Advanced Application Development with LangGraph, Tavily AI, and GPT-3
+# Application Development with Preplexity_lite LangGraph, Tavily AI, and GPT-3
+
+In this project, I have utilized LangGraph, a library designed for building stateful, multi-actor applications. LangGraph, built on LangChain, allows for the coordination of multiple 'actors' in a cyclical computation process. This is particularly useful for adding cycles to your LLM applications, extending beyond the capabilities of a traditional DAG framework.
+I also used Tavily AI, an incredible tool for rapid insights and comprehensive research. Tavily AI streamlines the research process, from source gathering to organizing results, making it an invaluable asset for developers.
+Of course, the project wouldn't be complete without discussing GPT-3, a large language model that's pivotal in the development of advanced AI applications.
+By combining these tools, I've managed to create an application similar to Perplexity AI, known for its ability to unlock knowledge through information discovery and sharing.
 
 ## Project Overview
 
-This project represents a significant leap forward in the realm of AI-driven applications, thanks to the integration of cutting-edge technologies and platforms. By harnessing the power of LangGraph, Tavily AI, and GPT-3, we've developed an application that not only enhances the capabilities of language model-based applications but also streamlines the research and insight generation process.
+This project represents a significant leap forward in the realm of AI-driven applications, thanks to the integration of cutting-edge technologies and platforms. By harnessing the power of Preplexitylite LangGraph, Tavily AI, and GPT-3, I've developed an application that not only enhances the capabilities of language model-based applications but also streamlines the research and insight generation process.
 
 ## Core Technologies Employed
 
